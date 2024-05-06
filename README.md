@@ -13,9 +13,9 @@ Run the following command:
 make prod
 ```
 
-Service should now be running on: [http://localhost:8000]
+Service should now be running on: [http://localhost:8000](http://localhost:8000)
 
-API Docs can be found at: [http://localhost:8000/docs]
+API Docs can be found at: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Implementation details
 
